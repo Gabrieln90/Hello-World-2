@@ -1,3 +1,4 @@
 # Hello-World-2
 Just another repository...
-\n testing the water before jumping in!\n
+
+Testing the water before jumping in!
